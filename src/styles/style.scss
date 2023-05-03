@@ -17,6 +17,21 @@ ul {
   list-style-type: none;
 }
 
+.morePicture {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 2rem;
+}
+button {
+  padding: 0.25rem 0.5rem;
+  font-size: 2rem;
+  background-color: rgb(70, 0, 70);
+  color: white;
+  cursor: pointer;
+}
+
 @import "./nav";
 @import "./search";
 @import "./footer";
+@import "./picture";
