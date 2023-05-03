@@ -1,4 +1,19 @@
+### 一個擁有圖片搜索功能的網頁
+
+## 功能：
+
+# 首頁展示 15 張今日精選圖片
+
+# 關鍵字搜索
+
+# 於底部展示更多圖片
+
+#
+
 ### React 練習
 
-Routing 的寫法
-useState 及 useEffect 的使用方法
+## 內容：
+
+# Routing 的寫法
+
+# useState 及 useEffect 的使用方法
